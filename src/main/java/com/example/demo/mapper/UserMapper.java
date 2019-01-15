@@ -3,9 +3,9 @@ package com.example.demo.mapper;
 import java.util.List;
 
 import com.example.demo.entity.UserEntity;
-import com.example.demo.enums.UserSexEnum;
+//import com.example.demo.enums.UserSexEnum;
 
-import org.apache.ibatis.annotations.*;
+//import org.apache.ibatis.annotations.*;
 
 /**
  * UserMapper
