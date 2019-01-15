@@ -1,7 +1,5 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
-### VSCode IDEA ###
-#.mvn
 
 ### STS ###
 .apt_generated
